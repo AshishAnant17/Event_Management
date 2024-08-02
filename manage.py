@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
+#commit
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'event_management.settings')
